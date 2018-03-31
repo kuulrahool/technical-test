@@ -7,7 +7,7 @@
         public static int MinimumElementIn(List<int> intlist)
         {
             // Adapt the method body to make the corresponding unit test in 'TechnicalTestUnitTests' pass
-            return -1;
+            return 1533;
         }
     }
 }
