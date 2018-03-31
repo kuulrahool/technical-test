@@ -24,11 +24,11 @@ namespace TechnicalTestCore
             int a = Convert.ToInt32(maxNrAsString);
             long b = 0;
             string result;
-        for (int i =1 ; i<=a;i++ )
+ for (int i =1 ; i<=a;i++ )
             {
                 b = b + i;
             }
-        result=Convert.ToString(b);
+ result=Convert.ToString(b);
             return result;
         }
     }
