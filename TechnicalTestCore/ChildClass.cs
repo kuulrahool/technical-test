@@ -8,7 +8,7 @@ namespace TechnicalTestCore
     internal class ChildClass : ParentClass
     {
         // Adapt the Childclass definition so that the corresponding unit test in the 'TechnicalTestUnitTests' project will pass
-
+        //overriding the function 
         public override double AnonymousMathematicalFunction(double argument1, double argument2)
         {
             double result;
